@@ -1,3 +1,5 @@
+# 숫자야구
+
 import pygame
 import random
 
